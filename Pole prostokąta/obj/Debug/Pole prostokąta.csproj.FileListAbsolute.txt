@@ -1,0 +1,6 @@
+C:\Users\matma\Desktop\Pole prostokąta\bin\Debug\Pole prostokąta.exe.config
+C:\Users\matma\Desktop\Pole prostokąta\bin\Debug\Pole prostokąta.exe
+C:\Users\matma\Desktop\Pole prostokąta\bin\Debug\Pole prostokąta.pdb
+C:\Users\matma\Desktop\Pole prostokąta\obj\Debug\Pole prostokąta.csprojAssemblyReference.cache
+C:\Users\matma\Desktop\Pole prostokąta\obj\Debug\Pole prostokąta.exe
+C:\Users\matma\Desktop\Pole prostokąta\obj\Debug\Pole prostokąta.pdb
