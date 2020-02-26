@@ -1,0 +1,6 @@
+C:\Users\matma\source\repos\Algorytmy z tablicami\bin\Debug\Algorytmy z tablicami.exe.config
+C:\Users\matma\source\repos\Algorytmy z tablicami\bin\Debug\Algorytmy z tablicami.exe
+C:\Users\matma\source\repos\Algorytmy z tablicami\bin\Debug\Algorytmy z tablicami.pdb
+C:\Users\matma\source\repos\Algorytmy z tablicami\obj\Debug\Algorytmy z tablicami.csprojAssemblyReference.cache
+C:\Users\matma\source\repos\Algorytmy z tablicami\obj\Debug\Algorytmy z tablicami.exe
+C:\Users\matma\source\repos\Algorytmy z tablicami\obj\Debug\Algorytmy z tablicami.pdb
