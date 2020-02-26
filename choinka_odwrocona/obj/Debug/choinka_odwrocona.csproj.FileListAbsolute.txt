@@ -1,0 +1,6 @@
+C:\Users\matma\source\repos\choinka_odwrocona\bin\Debug\choinka_odwrocona.exe.config
+C:\Users\matma\source\repos\choinka_odwrocona\bin\Debug\choinka_odwrocona.exe
+C:\Users\matma\source\repos\choinka_odwrocona\bin\Debug\choinka_odwrocona.pdb
+C:\Users\matma\source\repos\choinka_odwrocona\obj\Debug\choinka_odwrocona.csprojAssemblyReference.cache
+C:\Users\matma\source\repos\choinka_odwrocona\obj\Debug\choinka_odwrocona.exe
+C:\Users\matma\source\repos\choinka_odwrocona\obj\Debug\choinka_odwrocona.pdb
