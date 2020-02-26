@@ -1,0 +1,6 @@
+C:\Users\matma\source\repos\Program z menu\bin\Debug\Program z menu.exe.config
+C:\Users\matma\source\repos\Program z menu\bin\Debug\Program z menu.exe
+C:\Users\matma\source\repos\Program z menu\bin\Debug\Program z menu.pdb
+C:\Users\matma\source\repos\Program z menu\obj\Debug\Program z menu.csprojAssemblyReference.cache
+C:\Users\matma\source\repos\Program z menu\obj\Debug\Program z menu.exe
+C:\Users\matma\source\repos\Program z menu\obj\Debug\Program z menu.pdb
