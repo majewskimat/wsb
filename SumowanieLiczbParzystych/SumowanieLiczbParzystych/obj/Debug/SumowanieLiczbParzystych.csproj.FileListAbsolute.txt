@@ -1,0 +1,7 @@
+C:\Users\marco\source\repos\SumowanieLiczbParzystych\SumowanieLiczbParzystych\bin\Debug\SumowanieLiczbParzystych.exe.config
+C:\Users\marco\source\repos\SumowanieLiczbParzystych\SumowanieLiczbParzystych\bin\Debug\SumowanieLiczbParzystych.exe
+C:\Users\marco\source\repos\SumowanieLiczbParzystych\SumowanieLiczbParzystych\bin\Debug\SumowanieLiczbParzystych.pdb
+C:\Users\marco\source\repos\SumowanieLiczbParzystych\SumowanieLiczbParzystych\obj\Debug\SumowanieLiczbParzystych.csprojAssemblyReference.cache
+C:\Users\marco\source\repos\SumowanieLiczbParzystych\SumowanieLiczbParzystych\obj\Debug\SumowanieLiczbParzystych.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\SumowanieLiczbParzystych\SumowanieLiczbParzystych\obj\Debug\SumowanieLiczbParzystych.exe
+C:\Users\marco\source\repos\SumowanieLiczbParzystych\SumowanieLiczbParzystych\obj\Debug\SumowanieLiczbParzystych.pdb

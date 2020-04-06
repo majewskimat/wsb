@@ -1,0 +1,2 @@
+Liczba wyrazów: 56	 Suma liczb parzystych metodą rekurencyjną: 812
+Liczba wyrazów: 56	 Suma liczb parzystych metodą interacyjną: 812
