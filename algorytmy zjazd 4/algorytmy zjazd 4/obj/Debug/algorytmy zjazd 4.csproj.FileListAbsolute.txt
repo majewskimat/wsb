@@ -1,0 +1,7 @@
+C:\Users\marco\source\repos\algorytmy zjazd 4\algorytmy zjazd 4\bin\Debug\algorytmy zjazd 4.exe.config
+C:\Users\marco\source\repos\algorytmy zjazd 4\algorytmy zjazd 4\bin\Debug\algorytmy zjazd 4.exe
+C:\Users\marco\source\repos\algorytmy zjazd 4\algorytmy zjazd 4\bin\Debug\algorytmy zjazd 4.pdb
+C:\Users\marco\source\repos\algorytmy zjazd 4\algorytmy zjazd 4\obj\Debug\algorytmy zjazd 4.csprojAssemblyReference.cache
+C:\Users\marco\source\repos\algorytmy zjazd 4\algorytmy zjazd 4\obj\Debug\algorytmy zjazd 4.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\algorytmy zjazd 4\algorytmy zjazd 4\obj\Debug\algorytmy zjazd 4.exe
+C:\Users\marco\source\repos\algorytmy zjazd 4\algorytmy zjazd 4\obj\Debug\algorytmy zjazd 4.pdb

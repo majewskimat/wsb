@@ -1,0 +1,6 @@
+C:\Users\marco\source\repos\Rekurencja\Rekurencja\bin\Debug\Rekurencja.exe.config
+C:\Users\marco\source\repos\Rekurencja\Rekurencja\bin\Debug\Rekurencja.exe
+C:\Users\marco\source\repos\Rekurencja\Rekurencja\bin\Debug\Rekurencja.pdb
+C:\Users\marco\source\repos\Rekurencja\Rekurencja\obj\Debug\Rekurencja.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\Rekurencja\Rekurencja\obj\Debug\Rekurencja.exe
+C:\Users\marco\source\repos\Rekurencja\Rekurencja\obj\Debug\Rekurencja.pdb

@@ -1,0 +1,7 @@
+Przed sortowaniem : 
+
+3, 6, 9, 8, 2, 1, 5, 10, 4, 7, 
+
+Po sortowaniu : 
+
+1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 

@@ -1,0 +1,6 @@
+C:\Users\marco\source\repos\Projekt1 Zjazd 2 Algorytmy\Projekt1 Zjazd 2 Algorytmy\bin\Debug\Projekt1 Zjazd 2 Algorytmy.exe.config
+C:\Users\marco\source\repos\Projekt1 Zjazd 2 Algorytmy\Projekt1 Zjazd 2 Algorytmy\bin\Debug\Projekt1 Zjazd 2 Algorytmy.exe
+C:\Users\marco\source\repos\Projekt1 Zjazd 2 Algorytmy\Projekt1 Zjazd 2 Algorytmy\bin\Debug\Projekt1 Zjazd 2 Algorytmy.pdb
+C:\Users\marco\source\repos\Projekt1 Zjazd 2 Algorytmy\Projekt1 Zjazd 2 Algorytmy\obj\Debug\Projekt1 Zjazd 2 Algorytmy.csprojAssemblyReference.cache
+C:\Users\marco\source\repos\Projekt1 Zjazd 2 Algorytmy\Projekt1 Zjazd 2 Algorytmy\obj\Debug\Projekt1 Zjazd 2 Algorytmy.exe
+C:\Users\marco\source\repos\Projekt1 Zjazd 2 Algorytmy\Projekt1 Zjazd 2 Algorytmy\obj\Debug\Projekt1 Zjazd 2 Algorytmy.pdb
