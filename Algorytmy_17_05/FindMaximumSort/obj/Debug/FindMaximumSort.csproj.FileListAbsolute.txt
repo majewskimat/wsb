@@ -1,0 +1,7 @@
+C:\Users\marco\source\repos\Algorytmy_17_05\FindMaximumSort\bin\Debug\FindMaximumSort.exe.config
+C:\Users\marco\source\repos\Algorytmy_17_05\FindMaximumSort\bin\Debug\FindMaximumSort.exe
+C:\Users\marco\source\repos\Algorytmy_17_05\FindMaximumSort\bin\Debug\FindMaximumSort.pdb
+C:\Users\marco\source\repos\Algorytmy_17_05\FindMaximumSort\obj\Debug\FindMaximumSort.csprojAssemblyReference.cache
+C:\Users\marco\source\repos\Algorytmy_17_05\FindMaximumSort\obj\Debug\FindMaximumSort.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\Algorytmy_17_05\FindMaximumSort\obj\Debug\FindMaximumSort.exe
+C:\Users\marco\source\repos\Algorytmy_17_05\FindMaximumSort\obj\Debug\FindMaximumSort.pdb

@@ -1,0 +1,6 @@
+C:\Users\marco\source\repos\Algorytmy_17_05\ShellSort\bin\Debug\ShellSort.exe.config
+C:\Users\marco\source\repos\Algorytmy_17_05\ShellSort\bin\Debug\ShellSort.exe
+C:\Users\marco\source\repos\Algorytmy_17_05\ShellSort\bin\Debug\ShellSort.pdb
+C:\Users\marco\source\repos\Algorytmy_17_05\ShellSort\obj\Debug\ShellSort.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\Algorytmy_17_05\ShellSort\obj\Debug\ShellSort.exe
+C:\Users\marco\source\repos\Algorytmy_17_05\ShellSort\obj\Debug\ShellSort.pdb

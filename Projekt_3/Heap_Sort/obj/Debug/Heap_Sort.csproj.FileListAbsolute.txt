@@ -1,0 +1,6 @@
+C:\Users\marco\source\repos\Projekt_3\Heap_Sort\bin\Debug\Heap_Sort.exe.config
+C:\Users\marco\source\repos\Projekt_3\Heap_Sort\bin\Debug\Heap_Sort.exe
+C:\Users\marco\source\repos\Projekt_3\Heap_Sort\bin\Debug\Heap_Sort.pdb
+C:\Users\marco\source\repos\Projekt_3\Heap_Sort\obj\Debug\Heap_Sort.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\Projekt_3\Heap_Sort\obj\Debug\Heap_Sort.exe
+C:\Users\marco\source\repos\Projekt_3\Heap_Sort\obj\Debug\Heap_Sort.pdb
